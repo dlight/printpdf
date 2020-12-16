@@ -7,4 +7,4 @@ license = "GPL-2.0 OR GPL-3.0"
 readme = "README.md"
 
 [dependencies]
-pdftotext = { version = "0.1.4", git = "https://github.com/dlight/pdftotext" }
+pdftotext = { git = "https://github.com/dlight/pdftotext", branch = "main" }
