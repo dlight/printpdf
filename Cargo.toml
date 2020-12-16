@@ -7,4 +7,4 @@ license = "GPL-2.0 OR GPL-3.0"
 readme = "README.md"
 
 [dependencies]
-pdftotext = "0.1.3"
+pdftotext = "0.1.4"

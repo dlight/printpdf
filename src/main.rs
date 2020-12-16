@@ -5,7 +5,7 @@ fn main() {
 
     let text = pdftotext_layout(&args[1]).unwrap();
 
-    for i in text {
+    for i in &text {
         println!("{}", i);
     }
 }
