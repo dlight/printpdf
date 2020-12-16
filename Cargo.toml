@@ -1,0 +1,10 @@
+[package]
+name = "printpdf"
+version = "0.1.0"
+authors = ["Elias Gabriel Amaral da Silva <tolkiendili@gmail.com>"]
+edition = "2018"
+license = "GPL-2.0 OR GPL-3.0"
+readme = "README.md"
+
+[dependencies]
+pdftotext = "0.1.3"
